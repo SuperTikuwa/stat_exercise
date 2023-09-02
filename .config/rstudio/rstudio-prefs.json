@@ -1,0 +1,8 @@
+{
+    "initial_working_directory": "~",
+    "font_size_points": 12,
+    "editor_theme": "Dracula",
+    "server_editor_font_enabled": true,
+    "server_editor_font": "Cascadia Code",
+    "posix_terminal_shell": "bash"
+}
