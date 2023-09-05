@@ -1,1 +1,72 @@
 1693668712413:dir()
+1693672194608:getwd()
+1693672199109:dir()
+1693672245506:read.csv("test.csv")
+1693672258129:csv = read.csv("test.csv")
+1693672278980:View(csv)
+1693672282625:View(csv)
+1693672334086:csv = read.csv("test.csv",header = TRUE)
+1693672354680:csv = read.csv("test.csv",header = TRUE,sep = ",")
+1693672357574:View(csv)
+1693672359984:View(csv)
+1693672368271:View(1)
+1693672374450:View("test.csv")
+1693672381328:csv <| read.csv("test.csv",header = TRUE,sep = ",")
+1693672385937:csv < read.csv("test.csv",header = TRUE,sep = ",")
+1693672392696:View(csv)
+1693672417000:csv <- read.csv("test.csv",header = TRUE,sep = ",")
+1693672419136:csv
+1693672422811:View(csv)
+1693672590384:csv
+1693672658835:csv <- read.csv("test.csv",header = T,row.names = 1)
+1693672660692:csv
+1693672669089:View(csv)
+1693672686872:df <- read.csv("test.csv",header = T,row.names = 1)
+1693672694210:view(df)
+1693672699648:View(df)
+1693672964981:df.
+1693672966087:df
+1693674152968:df <- read.csv("./test.csv",header = T,row.names = 1)
+1693674186756:dir()
+1693674204503:df <- read.csv("./test.csv",header = T,row.names = 1)
+1693674207536:View(df)
+1693674284008:setwd("~/")
+1693674293640:dir()
+1693674300859:setwd("~/")
+1693674305674:View("test.csv")
+1693674310773:View("~/test.csv")
+1693674662898:df
+1693674681038:df[1]
+1693674687189:df[,1]
+1693674699913:df[;1]
+1693674704079:df[:1]
+1693674707428:df[1]
+1693674792652:df <- read.csv("test.csv")
+1693674794796:df
+1693674801244:df.Yes
+1693674805799:df
+1693674819522:df$X
+1693674825364:df$Yes
+1693675145050:df <- read.csv("test.csv",header = T,row.names = 1)
+1693675148691:df
+1693675155007:df$Yes
+1693675167726:df
+1693675173110:df[Yes]
+1693675178403:df["Yes"]
+1693675182542:df["Yes"]
+1693675191554:df["Yes"][0]
+1693675199349:df[,1]
+1693675204802:df[1]
+1693675208581:df[3]
+1693675218826:df["Yes"]
+1693675245908:df$X
+1693675252778:df.X
+1693675263878:df
+1693675355660:df[1,]
+1693675367809:sum(df[1,])
+1693675382961:sum(df[2,])
+1693675520352:Titanic
+1693675547412:View(Titanic)
+1693675765425:data("iris")
+1693675779547:View(iris)
+1693675833627:View(iris)
