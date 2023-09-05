@@ -37,7 +37,7 @@ expectedData <- expectedData|>
 expectedData <- expectedData[-6,]
 expectedData <- expectedData[-3]
 
-
+# 計算しやすいようにデータを整形
 newData <- tibble(
   Yes = data$Yes,
   No = data$No,
